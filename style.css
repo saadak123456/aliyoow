@@ -1,0 +1,110 @@
+ @import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap');
+
+* {
+    margin: 0;
+    font-family: "DM Sans", sans-serif;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 60px;
+    align-items: center;
+}
+
+.header ul {
+    display: flex;
+    gap: 40px;
+    list-style: none;
+    font-size: 22px;
+}
+
+   
+.orderBtn {
+    background-color: #a27b5c;
+    padding: 20px 30px;
+    border: none;
+    color: white;
+
+}
+
+.signBtn {
+    margin-left: 20px;
+    padding: 18px 30px;
+    border: 2px solid #a27b5c;
+    background-color: white;
+}
+
+
+.header span {
+    color: #a27b5c;
+}
+
+
+.main {
+    height: 500ox;
+    background-color: #e5bb98;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 30px;
+}
+
+.main h1 {
+    font-size: 100px;
+
+}
+
+.main img {
+    width: 1600px;
+    height: 500px;
+}
+
+.main h2 {
+    margin-right:630Px;
+}
+
+
+.main h5 {
+    color: gray;
+    margin-right: 1500px;
+}
+
+.Blog {
+    display: flex;
+    margin: 40px 350px;
+    gap: 40px;
+    border-bottom: 1px solid grey;
+    padding: 20px;
+}
+
+
+
+   
+
+
+
+
+.btn-parent {
+    text-align: center;
+    margin: 20px 0px;
+}
+
+
+.footer {
+    background-color: black;
+    height: 400px;
+    color: white;
+    text-align: center;
+ 
+}
+
+.footer h1 {
+    padding-top: 60px;
+    font-size: 80px;
+}
+
+.footer hr {
+    margin: 20px 70px;
+}
+
+
